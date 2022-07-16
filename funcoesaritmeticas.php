@@ -7,7 +7,7 @@
 
             <Input type="number" name="x">
             <Input type="number" name="y">
-            <Input type="submit" name="submit">
+            <Input type="submit" name="submit" value="ENVIAR">
 
         </formm>
 
