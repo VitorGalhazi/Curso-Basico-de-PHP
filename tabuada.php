@@ -8,7 +8,7 @@
             <legend for="tabuada">Escolha um número:
             <select name="tabuada" id="tabuada">
 
-            <?php for($i = 0; $i <= 10; $i++) { ?>
+            <?php for($i = 0; $i <= 20; $i++) { ?>
 
                 <option value="<?php echo $i; ?>"><?php echo $i; ?></option> 
 
