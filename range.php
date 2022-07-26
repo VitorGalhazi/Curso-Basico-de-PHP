@@ -5,8 +5,10 @@
     <body>
         <?php
 
-            $n = range(5, 20, 5);
-            print_r($n);
+            $n = range(5, 20, 2);
+            foreach($n as $v){
+                echo "$v ";
+            }
             
         ?>
     </body>
